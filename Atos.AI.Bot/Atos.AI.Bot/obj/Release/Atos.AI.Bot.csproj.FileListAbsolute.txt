@@ -1,0 +1,64 @@
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Bot Application.dll.config
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Bot Application.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Bot Application.pdb
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Autofac.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Chronic.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Builder.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Connector.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Newtonsoft.Json.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.Net.Http.Formatting.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.Web.Http.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.Web.Http.WebHost.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Autofac.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Builder.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Bot.Connector.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Newtonsoft.Json.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.Net.Http.Formatting.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.Web.Http.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\System.Web.Http.WebHost.xml
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\obj\Release\Atos.AI.Bot.csprojResolveAssemblyReference.cache
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\obj\Release\Atos.AI.Bot.csproj.CoreCompileInputs.cache
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\obj\Release\Bot Application.dll
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\obj\Release\Bot Application.pdb
+C:\Projects\Bots\Atos.AI.Bot\Atos.AI.Bot\bin\Microsoft.Rest.ClientRuntime.xml
